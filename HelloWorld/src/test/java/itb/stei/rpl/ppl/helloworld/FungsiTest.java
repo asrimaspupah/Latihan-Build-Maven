@@ -54,8 +54,8 @@ public class FungsiTest extends TestCase {
     
     public void testKali3(){
         Fungsi obj = new Fungsi();
-        assertEquals(6, obj.kali(3, 3));
-        assertEquals(8, obj.kali(4, 4));
+        assertEquals(9, obj.kali(3, 3));
+        assertEquals(16, obj.kali(4, 4));
         
     }
 }
