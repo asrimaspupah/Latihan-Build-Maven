@@ -1,0 +1,21 @@
+#surefire
+#Sat Feb 22 15:39:40 ICT 2014
+testClassesDirectory=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld\\target\\test-classes
+forkMode=once
+classPathUrl.2=C\:\\Users\\TOSHIBA\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld\\target\\classes
+classPathUrl.0=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld\\target\\test-classes
+reportsDirectory=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld\\src\\test\\java
+requestedTest=itb.stei.rpl.ppl.helloworld.FungsiTest
+surefireClassPathUrl.1=C\:\\Users\\TOSHIBA\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\TOSHIBA\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+isTrimStackTrace=true
+enableAssertions=true
+failIfNoTests=true
+includes0=**/itb/stei/rpl/ppl/helloworld/FungsiTest.java
+childDelegation=false

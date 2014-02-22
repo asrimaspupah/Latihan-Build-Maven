@@ -1,0 +1,8 @@
+#surefire
+#Sat Feb 22 15:39:40 ICT 2014
+maven.ext.class.path=C\:\\Program Files\\NetBeans 7.4\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld
+localRepository=C\:\\Users\\TOSHIBA\\.m2\\repository
+netbeansProjectMappings=
+basedir=D\:\\kampus\\S2 ITB\\semester 2\\IF 5122 PPL\\Repository\\Asri_Latihan\\Latihan\\HelloWorld
+test=itb.stei.rpl.ppl.helloworld.FungsiTest
